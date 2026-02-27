@@ -13,7 +13,7 @@ const App = () => {
       setfoodItem(updatedfooditems);
       event.target.value = "";
     }
-
+    
 }
   return (
     <div>
